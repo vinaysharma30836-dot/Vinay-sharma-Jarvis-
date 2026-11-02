@@ -1,0 +1,6 @@
+{
+  "name": "CJ Assistant",
+  "description": "Futuristic JARVIS-style personal AI assistant with voice interaction, phone automation, vision analysis, and memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
